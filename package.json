@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A demo to show how to development with es6.",
   "author": "ThoughtWorks Academy",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
   "jspm": {
     "directories": {
       "baseURL": "public"
