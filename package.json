@@ -1,0 +1,16 @@
+{
+  "name": "es6-stack-demo",
+  "version": "1.0.0",
+  "description": "A demo to show how to development with es6.",
+  "author": "ThoughtWorks Academy",
+  "jspm": {
+    "directories": {
+      "baseURL": "public"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.0.12",
+      "babel-runtime": "npm:babel-runtime@^5.0.12",
+      "core-js": "npm:core-js@^0.8.1"
+    }
+  }
+}
